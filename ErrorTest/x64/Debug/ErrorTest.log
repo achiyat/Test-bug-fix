@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\achiy\source\repos\ErrorTest\ErrorTest\main.c(14,2): warning C4013: 'targil1' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\ErrorTest\ErrorTest\main.c(16,2): warning C4013: 'targil2' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\ErrorTest\ErrorTest\main.c(18,2): warning C4013: 'targil3' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\ErrorTest\ErrorTest\main.c(20,2): warning C4013: 'program1' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\ErrorTest\ErrorTest\main.c(22,2): warning C4013: 'program2' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\ErrorTest\ErrorTest\main.c(24,2): warning C4013: 'program3' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\ErrorTest\ErrorTest\main.c(26,2): warning C4013: 'program4' undefined; assuming extern returning int
+  program4.c
+  Generating Code...
+  ErrorTest.vcxproj -> C:\Users\achiy\source\repos\ErrorTest\x64\Debug\ErrorTest.exe
