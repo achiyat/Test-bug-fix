@@ -9,13 +9,12 @@
 
 int program1()
 {
-    // כתבו תוכנית שקולטת מחרוזת ומחלקת אותה לשניים, מדפיסה את שתי המחרוזות בשורות נפרדות - המחרוזת לא תהיה גדולה מ 100 תוים
 
     char str[100];
     char firstStr[50];
     char secondStr[50];
-    char* ptr = str;  // מצביע על הכתובת הנוכחית
-    char* start = str;  // מצביע על הכתובת הראשונה
+    char* ptr = str;  
+    char* start = str;  
     printf("\nplease enter a str: \n");
     getchar();
     gets(str);

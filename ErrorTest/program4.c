@@ -64,7 +64,6 @@ int program4()
 
         while (fgets(str, 500, f) != NULL)
         {
-            // קריאה מהקובץ והשמה של המספרים
             token = strtok(str, ",");
             id_lottery = atoi(token);
 
@@ -94,7 +93,6 @@ int program4()
 
             token = strtok(NULL, "\n");
 
-            // השמה לרשימה המקושרת
             Add(id_lottery, date, number_1, number_2, number_3, number_4, number_5, number_6, strongNum);
 
         }
